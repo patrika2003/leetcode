@@ -60,11 +60,13 @@
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/patrika2003/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/patrika2003/leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/patrika2003/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/patrika2003/leetcode/tree/master/0168-excel-sheet-column-title) |
 ## String Matching
 |  |
 | ------- |
